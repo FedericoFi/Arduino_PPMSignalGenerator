@@ -15,7 +15,7 @@
 #define onState 1                 
 #define sigPin 22                 
 
-//--->Fligh mode PWM
+//--->Flight mode PWM
 #define mode1 1000
 #define mode2 1400
 #define mode3 1680
